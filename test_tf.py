@@ -6,9 +6,9 @@ import numpy as np
 import tensorflow as tf
 
 
-# import requests
-# from bs4 import BeautifulSoup
-# url = 'www.baidu.com'
+import requests
+from bs4 import BeautifulSoup
+url = 'www.baidu.com'
 
 
 inputX = np.random.rand(100)

@@ -2,41 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="48ccc7e8-2a4f-4a13-a97e-d7436c1d30a0" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/Project.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dataset/1.JPG" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dataset/LinuxLogo.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dataset/WindowsLogo.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dataset/lena.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dataset/test.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dataset/test_img.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dataset/vtest.avi" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pymnist/MNIST/processed/test.pt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pymnist/MNIST/processed/training.pt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pymnist/MNIST/raw/t10k-images-idx3-ubyte" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pymnist/MNIST/raw/t10k-images-idx3-ubyte.gz" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pymnist/MNIST/raw/t10k-labels-idx1-ubyte" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pymnist/MNIST/raw/t10k-labels-idx1-ubyte.gz" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pymnist/MNIST/raw/train-images-idx3-ubyte" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pymnist/MNIST/raw/train-images-idx3-ubyte.gz" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pymnist/MNIST/raw/train-labels-idx1-ubyte" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pymnist/MNIST/raw/train-labels-idx1-ubyte.gz" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/readme.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/reference/02_face_training.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/reference/face_detec.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/reference/tensorflow_test.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/reference/voice.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test_color_convert.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test_cv_base.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test_filter.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test_hist.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test_pixels.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test_pytorch.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test_tf.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test_tf.py" beforeDir="false" afterPath="$PROJECT_DIR$/test_tf.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
