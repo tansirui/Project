@@ -22,3 +22,13 @@ RGB HSV HIS YCrCb yuv
 
 # 双线性模糊可以达到美颜的效果
 
+
+
+
+# git使用说明
+
+- git config --gobal user.name "" 配置姓名
+- git config --gobal user.email   配置邮箱
+- git init      在本地目录创建一个仓库
+- git status 查看目录下文件的状态
+- git add 添加文件，可以单独添加文件，也可以全部添加
